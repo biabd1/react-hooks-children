@@ -5,9 +5,9 @@ function App() {
   return (
     <div className="App">
       <Container header="Example header" direction="horizontal">
-        <div>This is an example!</div>
-        <div>This is an example!</div>
-        <div>This is an example!</div>
+        <div>turtle</div>
+        <div>turtle!</div>
+        <div>turtle</div>
         <div>This is an example!</div>
         <div>This is an example!</div>
         <div>This is an example!</div>
